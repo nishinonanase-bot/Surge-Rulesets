@@ -1,0 +1,9 @@
+# X (Twitter) + Grok
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.x.ai
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,grok
