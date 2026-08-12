@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-KEYWORD,apple-relay
 DOMAIN,api-siri-prod.apple.com
-DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,gateway.icloud.com
 #以下是小鹏digital ruleset
@@ -19,4 +19,6 @@ DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN,apple-relay.akamaized.net
+DOMAIN,seed.siri.apple.com
 DOMAIN-KEYWORD,siri
