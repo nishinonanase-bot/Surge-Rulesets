@@ -3,13 +3,13 @@ DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,safebrowsing.googleapis.com
 USER-AGENT,com.apple.appstored*
 USER-AGENT,AppStore*
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
+#DOMAIN-SUFFIX,mzstatic.com
+#DOMAIN-SUFFIX,itunes.apple.com
+#DOMAIN-SUFFIX,icloud.com
+#DOMAIN-SUFFIX,icloud-content.com
 USER-AGENT,cloudd*
-USER-AGENT,*com.apple.WebKit*
-USER-AGENT,*com.apple.*
+#USER-AGENT,*com.apple.WebKit*
+#USER-AGENT,*com.apple.*
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,cdn20.com
@@ -19,9 +19,9 @@ DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,mwcloudcdn.com
 DOMAIN-SUFFIX,mwcname.com
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,apple-mapkit.com
+#DOMAIN-SUFFIX,apple.com
+#DOMAIN-SUFFIX,apple-cloudkit.com
+#DOMAIN-SUFFIX,apple-mapkit.com
 USER-AGENT,"MicroMessenger Client*"
 USER-AGENT,WeChat*
 DOMAIN-SUFFIX,126.com
@@ -83,7 +83,7 @@ DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miaopai.com
-DOMAIN-SUFFIX,microsoft.com
+#DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
