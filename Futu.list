@@ -1,0 +1,10 @@
+# 富途（Futu）强制走日本节点
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futu.com
+DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,fututrade.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-KEYWORD,futu
+DOMAIN-KEYWORD,moomoo
